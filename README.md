@@ -1,5 +1,5 @@
-# path Finding Visualisation 
-Modified version of https://github.com/snowlag/PathFinding-Visualisation-2D
+# Path Finding Visualisation 
+Modified version of https://github.com/clementmihailescu/Pathfinding-Visualizer-Tutorial
 
 ## Supported Algorithms
 Dijkestra Algorithm
