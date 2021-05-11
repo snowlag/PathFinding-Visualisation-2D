@@ -2,12 +2,12 @@
 Modified version of https://github.com/clementmihailescu/Pathfinding-Visualizer-Tutorial
 
 ## Modifications
- - Fixed the disapperacne of start node and end node after visualisation starts
+ - Fixed the disapperacne of start node and finish node after visualization starts
  - Added clear board function
 
 
 ## Supported Algorithms
-Dijkestra Algorithm
+ - Dijkestra Algorithm
 
 
 ## Available Scripts
